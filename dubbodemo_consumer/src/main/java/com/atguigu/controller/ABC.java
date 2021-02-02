@@ -9,5 +9,6 @@ package com.atguigu.controller;
 public class ABC {
     public static void main(String[] args) {
         System.out.println("123456798master");
+        System.out.println("123456798DEV2");
     }
 }
