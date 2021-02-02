@@ -8,6 +8,8 @@ package com.atguigu.controller;
 
 public class ABC {
     public static void main(String[] args) {
-        System.out.println("1234657master");
+        System.out.println("22222222222");
+        System.out.println("22222222222");
+        System.out.println("22222222222");
     }
 }
